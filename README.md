@@ -24,7 +24,7 @@ The company aims to automate the loan eligibility assessment process in real-tim
 | Loan_Amount_Term   | Term of a loan in months                    |
 | Credit_History     | Credit history meets guidelines             |
 | Property_Area      | Urban/ Semi-Urban/ Rural                    |
-| Loan_Status        | Loan approved (Y/N) **Target**                       |
+| Loan_Status        | Loan approved (1/0) **Target**                       |
 
 ### You are required to:
 - **Clean** the data if necessary.
