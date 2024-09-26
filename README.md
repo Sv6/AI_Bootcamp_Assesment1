@@ -31,7 +31,5 @@ The company aims to automate the loan eligibility assessment process in real-tim
 - all preprocessing steps **should be** in the notebook.
 - Test **3 different classification models**.
 - Perform **hyperparameter tuning** (Example: Grid Search or Random Search) & Cross Validation on the **best-performing model** from the **3 tested**.
-- **Save** the final model (for example: pickle).
-- The **submission** should include your Notebook, Model, and any other relevant files.
 
 Good luck.
